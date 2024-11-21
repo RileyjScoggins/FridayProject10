@@ -1,0 +1,13 @@
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Ignore system files
+.DS_Store
+
+# Ignore outputs
+*.csv
+*.log
